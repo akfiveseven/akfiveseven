@@ -27,7 +27,7 @@ Some of my other hobbies include:
 
 - **Programming languages**: Python, C/C++, C#, Java, Lua, Assembly, HTML, CSS, Javascript
 - **Javascript frameworks**: Node, React, Express, Phaser
-- **Databases**            : MongoDB, Postgres
+- **Databases**: MongoDB, Postgres
 
 ## Contact Me
 
