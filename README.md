@@ -4,7 +4,7 @@ Hello, my name is Ammar Khan and I am a student at Arizona State University stud
 
 ## About Me
 
-I grew up in the tech hub of Seattle and after getting a taste of programming with Batch scripting and web design in middle school, I made it a goal to study computer science in university. After moving to Phoenix at the start of high school, I learned procedural programming with TI-84 graphing calculators. After graduating high school, I was accepted to Arizona State University's Computer Science undergraduate program, where I learned object-oriented programming in Java and data structures and algorithms in C++. At the same time, I learned Python programming on my own with the knowledge I learned in previous programming courses. Nowadays, my favorite languages to use personally are Python, C/C++, and Javascript for web development.
+I grew up in the tech hub of Seattle and after getting a taste of programming with windows batch scripting and web design in middle school, I made it a goal to study computer science in university. After moving to Phoenix at the start of high school, I learned procedural programming with TI-84 graphing calculators. After graduating high school, I was accepted to Arizona State University's Computer Science undergraduate program, where I learned object-oriented programming in Java and data structures and algorithms in C++. I then learned Python programming on my own and became a linux terminal and vim enthusiast (I use arch and neovim btw). Nowadays, my favorite languages to use personally are Python, C/C++, and Javascript for web development.
 
 ## My Interests
 
