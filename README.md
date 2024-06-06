@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Hello, my name is Ammar Khan and I am a student at Arizona State University studying Computer Science. After I graduate, I hope to get a job in the software engineering field as a software developer, devops engineer, web/mobile developer, or game developer.
 
