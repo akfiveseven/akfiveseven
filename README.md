@@ -14,7 +14,7 @@ I enjoy multiple facets of programming such as:
 - web app/services development
 - game development
 - hacking
-- solving coding problems & challenges
+<!-- - solving coding problems & challenges -->
 - low-level interaction with c and assembly
 
 Some of my other hobbies include:
