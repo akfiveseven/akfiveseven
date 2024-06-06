@@ -23,6 +23,6 @@ I enjoy multiple facets of programming such as:
 
 ## Skills
 
-- Programming languages: Python, C/C++, C#, Java, Lua, Assembly, HTML, CSS, Javascript
-- Javascript frameworks: Node, React, Express, Phaser
-- Databases            : MongoDB, Postgres
+- **Programming languages**: Python, C/C++, C#, Java, Lua, Assembly, HTML, CSS, Javascript
+- **Javascript frameworks**: Node, React, Express, Phaser
+- **Databases**            : MongoDB, Postgres
