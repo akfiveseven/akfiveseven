@@ -15,7 +15,6 @@ I enjoy multiple facets of programming such as:
 Some of my other hobbies include:
 - software modding video games & consoles
 - playing guitar & music production
-- reading manga & watching anime
 - live streaming & content creation
 
 ## Skills
