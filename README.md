@@ -1,47 +1,28 @@
 # Introduction
 
-[TODO]
+Hello, my name is Ammar Khan and I am a student at Arizona State University studying Computer Science. After I graduate, I hope to get a job in the software engineering field as a software developer, devops engineer, web/mobile developer, or game developer.
 
 ## About Me
 
-[TODO]
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostinthetoast&label=Profile%20views&color=0e75b6&style=flat" alt="ghostinthetoast" /> </p> -->
-
-[TODO]
+I grew up in the tech hub of Seattle and after getting a taste of programming with Batch scripting and web design in middle school, I made it a goal to study computer science in university. After moving to Phoenix at the start of high school, I learned procedural programming with TI-84 graphing calculators. After graduating high school, I was accepted to Arizona State University's Computer Science undergraduate program, where I learned object-oriented programming in Java and data structures and algorithms in C++. At the same time, I learned Python programming on my own with the knowledge I learned in previous programming courses. Nowadays, my favorite languages to use personally are Python, C/C++, and Javascript for web development.
 
 ## My Interests
 
-[TODO]
+I enjoy multiple facets of programming such as: 
+- web app/services development
+- game development
+- hacking
+- solving coding problems & challenges
+- low-level interaction with c and assembly
 
 ## Contact Me
 
-[TODO]
+email:    ammarfiveseven@gmail.com
+linkedin: https://www.linkedin.com/in/ammark57/
+website:  https://akfiveseven.github.io/
 
 ## Skills
 
-[TODO]
-
-## Contributions
-
-[TODO]
-
-## Let's Connect
-
-[TODO]
-
-###
-
-<!-- <img src=img.jpg href="https://ionicabizau.github.io/github-profile-languages/?user=GhostInTheToast"> -->
-
-###
-<!--
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
--->
+Programming languages: Python, C/C++, C#, Java, Lua, Assembly, HTML, CSS, Javascript
+Javascript frameworks: Node, React, Express, Phaser
+Databases            : MongoDB, Postgres
