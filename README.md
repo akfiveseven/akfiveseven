@@ -9,8 +9,7 @@ Visit my portfolio website for my resume, projects, and blog posts: https://akfi
 I enjoy multiple facets of programming such as: 
 - web app/services development
 - game development
-- grey hat hacking
-<!-- - solving coding problems & challenges -->
+- grey hat hacking<!-- - solving coding problems & challenges -->
 - low-level interaction with c and assembly
 
 Some of my other hobbies include:
