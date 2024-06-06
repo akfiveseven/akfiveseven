@@ -16,7 +16,7 @@ I enjoy multiple facets of programming such as:
 - low-level interaction with c and assembly
 
 Some of my other hobbies include:
-- software & hardware modding for video games and consoles
+- software modding video games & consoles
 - playing guitar & music production
 - reading manga & watching anime
 - live streaming & content creation
