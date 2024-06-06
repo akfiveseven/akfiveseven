@@ -17,12 +17,12 @@ I enjoy multiple facets of programming such as:
 
 ## Contact Me
 
-email:    ammarfiveseven@gmail.com
-linkedin: https://www.linkedin.com/in/ammark57/
-website:  https://akfiveseven.github.io/
+- email:    ammarfiveseven@gmail.com
+- linkedin: https://www.linkedin.com/in/ammark57/
+- website:  https://akfiveseven.github.io/
 
 ## Skills
 
-Programming languages: Python, C/C++, C#, Java, Lua, Assembly, HTML, CSS, Javascript
-Javascript frameworks: Node, React, Express, Phaser
-Databases            : MongoDB, Postgres
+- Programming languages: Python, C/C++, C#, Java, Lua, Assembly, HTML, CSS, Javascript
+- Javascript frameworks: Node, React, Express, Phaser
+- Databases            : MongoDB, Postgres
