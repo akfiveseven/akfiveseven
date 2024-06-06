@@ -15,14 +15,20 @@ I enjoy multiple facets of programming such as:
 - solving coding problems & challenges
 - low-level interaction with c and assembly
 
-## Contact Me
-
-- email:    ammarfiveseven@gmail.com
-- linkedin: https://www.linkedin.com/in/ammark57/
-- website:  https://akfiveseven.github.io/
+Some of my other hobbies include:
+- software & hardware modding for video games and consoles
+- playing guitar & music production
+- reading manga & watching anime
+- live streaming & content creation
 
 ## Skills
 
 - **Programming languages**: Python, C/C++, C#, Java, Lua, Assembly, HTML, CSS, Javascript
 - **Javascript frameworks**: Node, React, Express, Phaser
 - **Databases**            : MongoDB, Postgres
+
+## Contact Me
+
+- email:    ammarfiveseven@gmail.com
+- linkedin: https://www.linkedin.com/in/ammark57/
+- website:  https://akfiveseven.github.io/
