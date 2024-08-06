@@ -1,16 +1,22 @@
-## Hi there 👋
+Howdy 🤠! My name is **Ammar Khan** and I am a student at Arizona State University studying Computer Science. After I graduate, I hope to get a job in the software engineering field.
 
-<!--
-**akfiveseven/akfiveseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My website**: https://akfiveseven.github.io/
 
-Here are some ideas to get you started:
+### My Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy many facets of programming such as: 
+
+- web app/services development
+- game development
+- cyber-security
+- low-level interaction with c/assembly and systems engineering
+
+### Skills
+
+- **Programming languages**: Python, C/C++, C#, Java, Lua, Assembly, HTML, CSS, Javascript
+- **Javascript frameworks**: Node, React, Express, Phaser
+- **Databases**: MongoDB, Postgres
+
+### Contact Me
+
+- email:    ammarfiveseven@gmail.com
