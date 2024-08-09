@@ -19,4 +19,4 @@ I enjoy many facets of programming such as:
 
 ### Contact Me
 
-- email:    ammarfiveseven@gmail.com
+- ammarfiveseven@gmail.com
