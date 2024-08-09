@@ -8,7 +8,7 @@ I enjoy many facets of programming such as:
 
 - Systems Engineering
 - Full Stack & Mobile Development
-- Video Game Engine Development
+- Video Game & Game Engine Development
 - Cybersecurity
 
 ### Skills
