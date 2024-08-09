@@ -6,16 +6,16 @@ Howdy 🤠! My name is **Ammar** and I am a student at Arizona State University 
 
 I enjoy many facets of programming such as: 
 
-- web app/services development
-- game development
-- cyber-security
-- low-level interaction with c/assembly and systems engineering
+- Systems Engineering
+- Full Stack & Mobile Development
+- Game Development
+- Cybersecurity
 
 ### Skills
 
 - **Programming languages**: Python, C/C++, C#, Java, Lua, Assembly, HTML, CSS, Javascript
 - **Javascript frameworks**: Node, React, Express, Phaser
-- **Databases**: MongoDB, Postgres
+- **Databases**: MongoDB, PostgreSQL
 
 ### Contact Me
 
