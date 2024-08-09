@@ -1,4 +1,4 @@
-Howdy 🤠! My name is **Ammar Khan** and I am a student at Arizona State University studying Computer Science. After I graduate, I hope to get a job in the software engineering field.
+Howdy 🤠! My name is **Ammar** and I am a student at Arizona State University studying Computer Science. After I graduate, I hope to get a job in the software engineering field.
 
 **My website**: https://akfiveseven.github.io/
 
