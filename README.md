@@ -4,9 +4,9 @@ Howdy 🤠! My name is **Ammar** and I am a student at Arizona State University 
 
 ### My Interests
 
-I enjoy many facets of programming such as: 
+I enjoy many aspects of programming such as: 
 
-- Systems Engineering
+- Systems Programming
 - Full Stack & Mobile Development
 - Video Game & Game Engine Development
 - Cybersecurity
